@@ -1,12 +1,13 @@
-Hey there 👋 I'm Santhosh K
+## Hey there 👋 I'm Santhosh K
 
-**Aspiring Software Engieer**
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/1f/d7/8e/1fd78e28449345cb772e60eb101b66b2.gif">
+Aspiring Software Developer | AI & .NET Enthusiast
 
-- 🌱 Currently learning ASP.NET, DSA, and integrating AI + ML into real-world applications ,Ethical Hcaking & Network Engineering
-- 👨‍🎓 B.E Computer Science And engineer
-- ⚙️ Working on full-stack .NET projects and ML-based tools
-- ⚡ Fun fact: I enjoy both OS-level and UI-level development!
+<img align="right" width="300" src="https://i.pinimg.com/originals/1f/d7/8e/1fd78e28449345cb772e60eb101b66b2.gif">
+
+- 🌱 Currently exploring ASP.NET, DSA, AI/ML, Ethical Hacking, and Network Engineering  
+- 👨‍🎓 B.E in Computer Science and Engineering  
+- ⚙️ Building full-stack .NET apps and experimenting with ML tools  
+- ⚡ I enjoy both system-level and UI-level development
 
 - ### 🔗 Let's Connect
 - [<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/your-linkedin)  

@@ -18,8 +18,7 @@ Aspiring Software Developer | AI & .NET Enthusiast
 <img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/visual-studio.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="40" src="https://colab.research.google.com/img/colab_favicon_256px.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/git.png"/>
 
 ### 📊 GitHub Stats
-![Santhosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SANS002&theme=radical&show_icons=true&count_private=true)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SANS002&layout=compact&theme=radical)](https://github.com/SANS002)
+![Santhosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SANS002&theme=radical&show_icons=true&count_private=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SANS002&layout=compact&theme=radical)](https://github.com/SANS002)
 
 ### 🧠 Coding & Data Platforms
 [![LeetCode Stats](https://leetcard.jacoblin.cool/santhoshkanagaraj?theme=dark&font=Shippori%20Mincho%20B1&ext=contest)](https://leetcode.com/santhoshkanagaraj)

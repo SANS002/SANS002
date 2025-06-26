@@ -1,7 +1,7 @@
-![image](https://github.com/user-attachments/assets/813a7434-3365-409d-93db-aef5861771f8)## Hey there 👋 I'm Santhosh K
+Hey there 👋 I'm Santhosh K
 
-Aspiring Software Developer | AI & .NET Enthusiast  
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+Aspiring Software Engineer | AI & .NET Enthusiast |learning Ethical Hcaking & Network Engineer|
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/1f/d7/8e/1fd78e28449345cb772e60eb101b66b2.gif">
 
 - 🌱 Currently learning ASP.NET, DSA, and integrating AI + ML into real-world applications
 - 👨‍🎓 Final year CSE @ SSMIET | 2025 Batch
@@ -27,8 +27,8 @@ Aspiring Software Developer | AI & .NET Enthusiast
 ### 🧠 Coding & Data Platforms
 [![LeetCode Stats](https://leetcard.jacoblin.cool/santhoshkanagaraj?theme=dark&font=Shippori%20Mincho%20B1&ext=contest)](https://leetcode.com/santhoshkanagaraj)
 
-[<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="30" />](https://www.hackerrank.com/profile/santhoshkanagar1)
+[<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="30" />](https://www.hackerrank.com/profile/santhoshkanagar1) [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="30" />](https://www.kaggle.com/santhoshthealien)
 
-[<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="30" />](https://www.kaggle.com/santhoshthealien)
+
 
 

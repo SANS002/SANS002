@@ -1,6 +1,6 @@
 Hey there 👋 I'm Santhosh K
 
-* Aspiring Software Engieer *
+**Aspiring Software Engieer**
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/1f/d7/8e/1fd78e28449345cb772e60eb101b66b2.gif">
 
 - 🌱 Currently learning ASP.NET, DSA, and integrating AI + ML into real-world applications ,Ethical Hcaking & Network Engineering

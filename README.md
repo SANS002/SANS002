@@ -1,15 +1,15 @@
 Hey there 👋 I'm Santhosh K
 
-Aspiring Software Engineer | AI & .NET Enthusiast |learning Ethical Hcaking & Network Engineer|
+* Aspiring Software Engieer *
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/1f/d7/8e/1fd78e28449345cb772e60eb101b66b2.gif">
 
-- 🌱 Currently learning ASP.NET, DSA, and integrating AI + ML into real-world applications
-- 👨‍🎓 Final year CSE @ SSMIET | 2025 Batch
+- 🌱 Currently learning ASP.NET, DSA, and integrating AI + ML into real-world applications ,Ethical Hcaking & Network Engineering
+- 👨‍🎓 B.E Computer Science And engineer
 - ⚙️ Working on full-stack .NET projects and ML-based tools
 - ⚡ Fun fact: I enjoy both OS-level and UI-level development!
 
 - ### 🔗 Let's Connect
-[<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/your-linkedin)  
+- [<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/your-linkedin)  
 
 ### 🧑‍💻 Languages & Technologies I Use
 <img height="40" src="https://img.icons8.com/color/48/000000/python.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/c-programming.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/html-5.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/css3.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="40" src="https://img.icons8.com/color/48/null/opencv.png"/> <img height="40" src="https://img.icons8.com/color/48/null/tensorflow.png"/> <img height="40" src="https://img.icons8.com/color/48/null/blazor.png"/> <img width="50" height="50" src="https://img.icons8.com/ios/50/flask.png" alt="flask"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/hugging-face_app.png" alt="hugging-face_app"/>

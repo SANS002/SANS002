@@ -17,9 +17,6 @@ Hey there 👋 I'm Santhosh K
 ### 🛠️ Tools & IDEs
 <img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/visual-studio.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/anaconda.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/git.png"/>
 
-### 💻 Workspace Specs
-<img height="30" src="https://img.shields.io/badge/Lenovo-V15-grey?style=for-the-badge&logo=lenovo&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
-
 ### 📊 GitHub Stats
 ![Santhosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SANS002&theme=radical&show_icons=true&count_private=true)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SANS002&layout=compact&theme=radical)](https://github.com/SANS002)

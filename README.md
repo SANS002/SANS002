@@ -9,7 +9,7 @@ Aspiring Software Developer | AI & .NET Enthusiast
 - ⚙️ Building full-stack .NET apps and experimenting with ML tools  
 - ⚡ I enjoy both system-level and UI-level development
 
-- **🔗 Let's Connect :** [<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/your-linkedin)  
+- **🔗 Let's Connect :** [<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/santhosh-k-10477a255/)  
 
 ### 🧑‍💻 Languages & Technologies I Use
 <img height="40" src="https://img.icons8.com/color/48/000000/python.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/c-programming.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/html-5.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/css3.png"/> <img height="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="40" src="https://img.icons8.com/color/48/null/opencv.png"/> <img height="40" src="https://img.icons8.com/color/48/null/tensorflow.png"/> <img width="64" height="64" src="https://img.icons8.com/cute-clipart/64/flask.png" alt="flask"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/hugging-face_app.png" alt="hugging-face_app"/>

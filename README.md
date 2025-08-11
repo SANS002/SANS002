@@ -21,8 +21,5 @@ Aspiring Software Developer | AI & .NET Enthusiast
 ![Santhosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SANS002&theme=radical&show_icons=true&count_private=true)      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SANS002&layout=compact&theme=radical)](https://github.com/SANS002) [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SANS002&bg_color=0d1117&color=fffafa&line=f6f9f7&point=119231&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🧠 Coding & Data Platforms
-[![LeetCode Stats](https://leetcard.jacoblin.cool/santhoshkanagaraj?theme=dark&font=Shippori%20Mincho%20B1&ext=contest)](https://leetcode.com/santhoshkanagaraj) [<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="30" />](https://www.hackerrank.com/profile/santhoshkanagar1) [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="30" />](https://www.kaggle.com/santhoshthealien)
-
-
-
+[<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="30" />](https://www.hackerrank.com/profile/santhoshkanagar1) [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="30" />](https://www.kaggle.com/santhoshthealien)
 

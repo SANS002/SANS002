@@ -127,8 +127,7 @@ SSM Institute of Engineering and Technology, Dindigul | 74% | 2021–2025
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 📊 STATS SCREEN
-<div align="center"> <table> <tr> <td width="50%"> <img width="100%" src="https://github-readme-stats.vercel.app/api?username=SANS002&theme=radical&show_icons=true&count_private=true&border_color=F72585&hide_border=true" /> </td> <td width="50%"> <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANS002&layout=compact&theme=radical&border_color=F72585&hide_border=true" /> </td> </tr> </table> <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=SANS002&bg_color=0d1117&color=39FF14&line=F72585&point=FFD700&area=true&hide_border=true" /> </div> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"> <div align="center">
-
+<div align="center"> <table> <tr> <td width="50%"> <img width="100%" src="https://ghstats.dev/api/card?username=SANS002&theme=radical" /> </td> <td width="50%"> <img width="100%" src="https://ghstats.dev/api/langs?username=SANS002&theme=radical&layout=bar" /> </td> </tr> </table> <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=SANS002&bg_color=0d1117&color=39FF14&line=F72585&point=FFD700&area=true&hide_border=true" /> </div> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"> <div align="center">
 ### 🕹️ INSERT COIN TO COLLABORATE 🕹️
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=THANKS+FOR+VISITING!;GAME+OVER...+CONTINUE%3F+Y%2FN" alt="Typing SVG" />

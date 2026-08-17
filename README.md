@@ -14,7 +14,9 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🕹️ PLAYER PROFILE
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=1&pause=100000&repeat=false&color=F72585&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%95%B9%EF%B8%8F+PLAYER+PROFILE" alt="Player Profile" />
+</div>
 
 ```
 ┌──────────────────────────────────────────────────────────┐
@@ -36,58 +38,83 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 📜 QUEST LOG (Professional Summary)
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=1&pause=100000&repeat=false&color=39FF14&center=true&vCenter=true&width=650&height=45&lines=%F0%9F%93%9C+QUEST+LOG" alt="Quest Log" />
+</div>
 
-> Entry-level Python developer with hands-on experience in **Flask** and working knowledge of **FastAPI**, along with REST API development. Experienced with **SQLAlchemy** and **PostgreSQL** to build and manage databases, with a solid understanding of core programming concepts like OOP and error handling. Eager to learn, easy to work with, and ready to contribute to a team.
+```
+> Entry-level Python developer with hands-on experience in
+  Flask and working knowledge of FastAPI, along with REST
+  API development. Experienced with SQLAlchemy and
+  PostgreSQL to build and manage databases, with a solid
+  understanding of core programming concepts like OOP and
+  error handling. Eager to learn, easy to work with, and
+  ready to contribute to a team.
+```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🎮 INVENTORY (Technical Skills)
-
 <div align="center">
-
-| 🗡️ Category | 🛡️ Items Equipped |
-|:---|:---|
-| **Programming** | Python |
-| **Frameworks** | FastAPI · Flask |
-| **API Development** | REST APIs · JSON · HTTP Methods · HTTP Status Codes |
-| **Python Concepts** | OOP · Data Structures · Exception Handling · List Comprehensions · Async Programming · Threading · Multiprocessing |
-| **Database** | PostgreSQL · SQL |
-| **ORM** | SQLAlchemy |
-| **Testing** | pytest · Unit Testing · API Testing · Postman |
-| **Containers** | Docker |
-| **Tools** | Git · GitHub |
-
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=1&pause=100000&repeat=false&color=FFD700&center=true&vCenter=true&width=650&height=45&lines=%F0%9F%8E%AE+INVENTORY" alt="Inventory" />
 </div>
 
-### 🧩 Power-Ups (Languages & Tech)
+```
+┌──────────────────┬──────────────────────────────────────────────┐
+│ CATEGORY          │ ITEMS EQUIPPED                                │
+├──────────────────┼──────────────────────────────────────────────┤
+│ Programming        │ Python                                        │
+│ Frameworks         │ FastAPI, Flask                                │
+│ API Development    │ REST APIs, JSON, HTTP Methods, Status Codes   │
+│ Python Concepts    │ OOP, Data Structures, Exception Handling,     │
+│                     │ List Comprehensions, Async, Threading,       │
+│                     │ Multiprocessing                              │
+│ Database            │ PostgreSQL, SQL                              │
+│ ORM                 │ SQLAlchemy                                   │
+│ Testing              │ pytest, Unit Testing, API Testing, Postman  │
+│ Containers           │ Docker                                      │
+│ Tools                │ Git, GitHub                                 │
+└──────────────────┴──────────────────────────────────────────────┘
+```
 
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=100000&repeat=false&color=F72585&center=true&vCenter=true&width=500&height=30&lines=POWER-UPS" alt="Power-Ups" />
+<br>
 <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,html,css,mysql,postgres,flask,docker&theme=dark" />
 </div>
 
-### 🧰 Utility Belt (Tools & IDEs)
-
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=100000&repeat=false&color=39FF14&center=true&vCenter=true&width=500&height=30&lines=UTILITY+BELT" alt="Utility Belt" />
+<br>
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,figma,git,github,postman&theme=dark" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🏆 BOSS BATTLES CLEARED (Project)
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&pause=100000&repeat=false&color=F72585&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%8F%86+BOSS+BATTLES+CLEARED" alt="Boss Battles Cleared" />
+</div>
 
-### ⚔️ Stock Price Prediction Web Application
-`Python` · `Flask` · `SQLAlchemy`
+```
+> Stock Price Prediction Web Application
+  [ Python | Flask | SQLAlchemy ]
 
-- 🛠️ Developed a Python and Flask web application for stock price analysis and forecasting
-- 🔌 Built REST API functionality for handling requests and application data flow
-- 📡 Integrated external financial data using `yfinance`
-- 🗄️ Used SQLAlchemy ORM for database interaction and data management
-- ✅ Implemented input validation and exception handling for reliable request processing
-- 🧱 Structured backend functionality using maintainable Python code and reusable components
-- 🐞 Tested and debugged application functionality during development
-- 📊 Implemented data processing and visualization for presenting stock information
-- 🔧 Used Git and GitHub for source code management
+  - Developed a Python and Flask web application for stock
+    price analysis and forecasting
+  - Built REST API functionality for handling requests and
+    application data flow
+  - Integrated external financial data using yfinance
+  - Used SQLAlchemy ORM for database interaction and data
+    management
+  - Implemented input validation and exception handling for
+    reliable request processing
+  - Structured backend functionality using maintainable
+    Python code and reusable components
+  - Tested and debugged application functionality during
+    development
+  - Implemented data processing and visualization for
+    presenting stock information
+  - Used Git and GitHub for source code management
+```
 
 <div align="center">
 
@@ -97,25 +124,41 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🏰 GUILD HISTORY (Internship)
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&pause=100000&repeat=false&color=39FF14&center=true&vCenter=true&width=650&height=45&lines=%F0%9F%8F%B0+GUILD+HISTORY" alt="Guild History" />
+</div>
 
-**🎨 Design Intern** — *Vinculoshop (E-Commerce)*
-- Collaborated with team members to understand requirements and deliver project work
-- Contributed to UI improvements and worked within team development processes
+```
+> Design Intern — Vinculoshop (E-Commerce)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## 🎓 CHARACTER BACKSTORY (Education)
-
-**B.E. Computer Science and Engineering**
-SSM Institute of Engineering and Technology, Dindigul | 74% | 2021–2025
-
-**📚 Skill Tree Unlocked:**
-`Data Structures & Algorithms` · `OOP` · `DBMS` · `Operating Systems` · `Computer Networks` · `Software Engineering`
+  - Collaborated with team members to understand
+    requirements and deliver project work
+  - Contributed to UI improvements and worked within team
+    development processes
+```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🌐 LANGUAGES SPOKEN
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=100000&repeat=false&color=FFD700&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%8E%93+CHARACTER+BACKSTORY" alt="Character Backstory" />
+</div>
+
+```
+> B.E. Computer Science and Engineering
+  SSM Institute of Engineering and Technology, Dindigul
+  74% | 2021-2025
+
+  SKILL TREE UNLOCKED:
+  Data Structures & Algorithms | OOP | DBMS |
+  Operating Systems | Computer Networks |
+  Software Engineering
+```
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&pause=100000&repeat=false&color=F72585&center=true&vCenter=true&width=650&height=45&lines=%F0%9F%8C%90+LANGUAGES+SPOKEN" alt="Languages Spoken" />
+</div>
 
 <div align="center">
 
@@ -126,9 +169,32 @@ SSM Institute of Engineering and Technology, Dindigul | 74% | 2021–2025
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-📊 STATS SCREEN
-<div align="center"> <table> <tr> <td width="50%"> <img width="100%" src="https://ghstats.dev/api/card?username=SANS002&theme=radical" /> </td> <td width="50%"> <img width="100%" src="https://ghstats.dev/api/langs?username=SANS002&theme=radical&layout=bar" /> </td> </tr> </table> <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=SANS002&bg_color=0d1117&color=39FF14&line=F72585&point=FFD700&area=true&hide_border=true" /> </div> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"> <div align="center">
-### 🕹️ INSERT COIN TO COLLABORATE 🕹️
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&pause=100000&repeat=false&color=39FF14&center=true&vCenter=true&width=650&height=45&lines=%F0%9F%93%8A+STATS+SCREEN" alt="Stats Screen" />
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+<img width="100%" src="https://ghstats.dev/api/card?username=SANS002&theme=radical" />
+</td>
+<td width="50%">
+<img width="100%" src="https://ghstats.dev/api/langs?username=SANS002&theme=radical&layout=bar" />
+</td>
+</tr>
+</table>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=SANS002&bg_color=0d1117&color=39FF14&line=F72585&point=FFD700&area=true&hide_border=true" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1&pause=100000&repeat=false&color=FFD700&center=true&vCenter=true&width=650&height=35&lines=%F0%9F%95%B9%EF%B8%8F+INSERT+COIN+TO+COLLABORATE" alt="Insert Coin" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=THANKS+FOR+VISITING!;GAME+OVER...+CONTINUE%3F+Y%2FN" alt="Typing SVG" />
 

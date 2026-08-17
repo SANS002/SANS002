@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-<img width="300" src="https://i.pinimg.com/originals/1f/d7/8e/1fd78e28449345cb772e60eb101b66b2.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:F72585,100:39FF14&height=180&section=header&text=SANTHOSH%20K&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Python%20%2B%20Flask%20Developer&descAlignY=60&descSize=20">
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=800&color=F72585&center=true&vCenter=true&width=650&lines=%3E+SANTHOSH+K_;%3E+PYTHON+%2B+FLASK+DEV_;%3E+LOADING+SKILLS...+100%25_;%3E+PRESS+START+TO+HIRE_" alt="Typing SVG" />
@@ -14,7 +12,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🕹️ PLAYER PROFILE
 
@@ -25,7 +23,6 @@
 │  BASE    : Dindigul, Tamil Nadu, IN                        │
 │  QUEST   : B.E Computer Science & Engineering (2021-2025)  │
 │  MAIL    : santhoshkanagaraj66@gmail.com                  │
-│  PHONE   : +91 9361639086                                  │
 └──────────────────────────────────────────────────────────┘
 ```
 
@@ -34,17 +31,16 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhosh-k-10477a255/)
 [![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SANS002)
 [![HackerRank](https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/santhoshkanagar1)
-[![Kaggle](https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/santhoshthealien)
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 📜 QUEST LOG (Professional Summary)
 
 > Entry-level Python developer with hands-on experience in **Flask** and working knowledge of **FastAPI**, along with REST API development. Experienced with **SQLAlchemy** and **PostgreSQL** to build and manage databases, with a solid understanding of core programming concepts like OOP and error handling. Eager to learn, easy to work with, and ready to contribute to a team.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🎮 INVENTORY (Technical Skills)
 
@@ -67,33 +63,16 @@
 ### 🧩 Power-Ups (Languages & Tech)
 
 <div align="center">
-<img height="55" title="Python" src="https://img.icons8.com/ninjas/50/python.png"/>
-<img height="55" title="C" src="https://img.icons8.com/ninjas/50/c-programming.png"/>
-<img height="55" title="C++" src="https://img.icons8.com/ninjas/50/c-plus-plus-logo.png"/>
-<img height="55" title="C#" src="https://img.icons8.com/ninjas/50/c-sharp-logo.png"/>
-<img height="55" title="HTML5" src="https://img.icons8.com/ninjas/50/html-5.png"/>
-<img height="55" title="CSS3" src="https://img.icons8.com/ninjas/50/css3.png"/>
-<img height="55" title="MySQL" src="https://img.icons8.com/ninjas/50/mysql-logo.png"/>
-<img height="55" title="Docker" src="https://img.icons8.com/ninjas/50/docker.png"/>
-<img height="55" title="Flask" src="https://img.icons8.com/cute-clipart/64/flask.png"/>
-<img height="55" title="OpenCV" src="https://img.icons8.com/color/48/null/opencv.png"/>
-<img height="55" title="TensorFlow" src="https://img.icons8.com/color/48/null/tensorflow.png"/>
-<img height="55" title="HuggingFace" src="https://img.icons8.com/fluency/48/hugging-face_app.png"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,html,css,mysql,postgres,flask,docker&theme=dark" />
 </div>
 
 ### 🧰 Utility Belt (Tools & IDEs)
 
 <div align="center">
-<img height="55" title="VS Code" src="https://img.icons8.com/ninjas/50/visual-studio-code-2019.png"/>
-<img height="55" title="Visual Studio" src="https://img.icons8.com/ninjas/50/visual-studio.png"/>
-<img height="55" title="PyCharm" src="https://img.icons8.com/ninjas/50/pycharm.png"/>
-<img height="55" title="Colab" src="https://colab.research.google.com/img/colab_favicon_256px.png"/>
-<img height="55" title="Figma" src="https://img.icons8.com/ninjas/50/figma.png"/>
-<img height="55" title="Git" src="https://img.icons8.com/ninjas/50/git.png"/>
-<img height="55" title="Postman" src="https://img.icons8.com/color/48/postman-api.png"/>
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,figma,git,github,postman&theme=dark" />
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🏆 BOSS BATTLES CLEARED (Project)
 
@@ -116,7 +95,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🏰 GUILD HISTORY (Internship)
 
@@ -124,7 +103,7 @@
 - Collaborated with team members to understand requirements and deliver project work
 - Contributed to UI improvements and worked within team development processes
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🎓 CHARACTER BACKSTORY (Education)
 
@@ -134,7 +113,7 @@ SSM Institute of Engineering and Technology, Dindigul | 74% | 2021–2025
 **📚 Skill Tree Unlocked:**
 `Data Structures & Algorithms` · `OOP` · `DBMS` · `Operating Systems` · `Computer Networks` · `Software Engineering`
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🌐 LANGUAGES SPOKEN
 
@@ -145,7 +124,7 @@ SSM Institute of Engineering and Technology, Dindigul | 74% | 2021–2025
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 📊 STATS SCREEN
 
@@ -161,7 +140,7 @@ SSM Institute of Engineering and Technology, Dindigul | 74% | 2021–2025
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <div align="center">
 
@@ -170,3 +149,5 @@ SSM Institute of Engineering and Technology, Dindigul | 74% | 2021–2025
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=THANKS+FOR+VISITING!;GAME+OVER...+CONTINUE%3F+Y%2FN" alt="Typing SVG" />
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:F72585,100:0D1117&height=100&section=footer">

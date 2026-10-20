@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:F72585,100:39FF14&height=180&section=header&text=SANTHOSH%20K&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Python%20%2B%20Flask%20Developer&descAlignY=60&descSize=20">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=800&color=F72585&center=true&vCenter=true&width=650&lines=%3E+SANTHOSH+K_;%3E+PYTHON+%2B+FLASK+DEV_;%3E+LOADING+SKILLS...+100%25_;%3E+PRESS+START+TO+HIRE_" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=800&color=F72585&center=true&vCenter=true&width=650&lines=%3E+SANTHOSH+K_;%3E+PYTHON+%2B+DEV_;%3E+LOADING+SKILLS...+100%25_;%3E+PRESS+START+TO+HIRE_" alt="Typing SVG" />
 </a>
 
 ![Visitors](https://komarev.com/ghpvc/?username=SANS002&style=for-the-badge&color=blueviolet&label=VISITORS)
